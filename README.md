@@ -3,9 +3,10 @@
 ## To begin with, I will tell you why this project is needed
 The project was developed as a training one, in a python environment using an aiogram to work with the TG themselves. Parsing using 
 - request
-- aio http
-- bs 4
-- async io
+- aiohttp
+- bs4
+- asyncio
+
 Yes, yes, you got it right, one base with Aiogram.
 
 It is because I studied that the code is constantly changing writing styles. New methods were used, etc. In general, I played as best I could and I advise you the same
