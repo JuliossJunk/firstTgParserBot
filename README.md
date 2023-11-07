@@ -22,11 +22,9 @@ And I also didn't like the changes in the new version of aiogram. The improvemen
 ## What do you need to make this code work for you
 1. Create a file config.py , which will store the bot token and developer id.
 2. Install all the necessary libraries from requirements.txt , using this code: 
-
-'''Bash
+```bash
 pip install -r /path/to/requirements.txt
-'''
-
+```
 3. Launch and enjoy!
 ---
 ## Future Plans AKA Opportunities for improvement
